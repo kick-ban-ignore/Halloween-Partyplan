@@ -6,8 +6,7 @@ Dies ist eine Single-Page Application (SPA) zur detaillierten und interaktiven P
 
 Programmübersicht: Ein detaillierter, 2-stündiger Zeitplan in einer mobilfreundlichen Akkordeon-Ansicht.
 
-Zeitverteilung: Ein Donut-Diagramm, das die Balance zwischen Bewegungsaktivitäten, Ruhephasen und Übergängen visualisiert.
 
-Material-Checkliste: Eine vollständige Liste aller benötigten Materialien zum Abhaken.
+Zutaten-Checkliste: Eine  Liste aller benötigten Zutaten zum Abhaken.
 
 Wichtige Hinweise: Klare Regeln und Tipps zur Gestaltung einer sicheren und stressfreien Umgebung (z.B. keine Schockeffekte, sichere Snacks).
